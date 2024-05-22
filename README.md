@@ -2,7 +2,8 @@
 
 Welcome to the GitHub repository for the CSE204 course project: Line Following Robot. This project focuses on designing and implementing a robot capable of autonomously following a line using various sensors and control algorithms. The repository includes detailed documentation, code, and schematics to help you understand and replicate our project. We hope you find this project both educational and inspiring.
 
-Check out the project in action and connect with us on LinkedIn: LinkedIn Post
+Check out the project in action and connect with us on LinkedIn:[LinkedIn post](https://shorturl.at/B4KjK)
+
 
 Feel free to explore the repository and contribute!
 
